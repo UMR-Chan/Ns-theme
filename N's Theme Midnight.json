@@ -141,8 +141,6 @@
      },
     "spec": 2
 }
- 
-},
   "background": {
     "url": "https://raw.githubusercontent.com/UMR-Chan/Ns-theme/refs/heads/main/Phone%20Theme.png",
     "blur": 0.5,
@@ -157,4 +155,4 @@
   "spec": 2,
   "createdAt": "2025-10-05",
   "source": "local"
-}}
+}
